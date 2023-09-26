@@ -11,7 +11,7 @@ jobs:
       - name: Legitify Action
         uses: Legit-Labs/legitify@main
         with:
-          github_token: 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
+          github_token: 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
           ignore-policies: |
              non_admins_can_create_public_repositories
              requires_status_checks
